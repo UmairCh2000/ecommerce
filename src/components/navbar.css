@@ -1,0 +1,129 @@
+.box {
+  height: 156px;
+  position: relative;
+  width: 1280px;
+  margin-left: 200px;
+}
+
+.box .navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 56px;
+  left: 516px;
+  position: absolute;
+  top: 10px;
+  width: 774px;
+}
+
+.box .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 56px;
+  left: 612px;
+  position: absolute;
+  top: 0;
+  width: 154px;
+  cursor: pointer;
+}
+
+.box .overlap-group {
+  background-color: #072a48;
+  border-radius: 10px;
+  box-shadow: 0px 20px 35px #00000026;
+  height: 56px;
+  position: relative;
+  width: 152px;
+}
+
+button {
+  all: unset;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.box .sign-up {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.box .sign-in {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 501px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .home {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .deals {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .newArrivals {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 209px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .packages {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 365px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .logo {
+  color: #072a48;
+  font-family: "Volkhov-Regular", Helvetica;
+  font-size: 52px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}

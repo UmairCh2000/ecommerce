@@ -1,0 +1,105 @@
+.box {
+  height: 58px;
+  position: relative;
+  width: 1280px;
+}
+
+/* .box .header {
+  background-color: transparent;
+  height: 58px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1282px;
+} */
+
+.box .text-wrapper {
+  color: #072a48;
+  font-family: "Volkhov-Regular", Helvetica;
+  font-size: 52px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.box .nav-menu {
+  height: 31px;
+  left: 427px;
+  position: absolute;
+  top: 13px;
+  width: 438px;
+}
+
+.box .div {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .text-wrapper-2 {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .text-wrapper-3 {
+  color: #072a48;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 229px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .group {
+  height: 24px;
+  left: 370px;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.box .vector {
+  height: 10px;
+  left: 55px;
+  position: absolute;
+  top: 7px;
+  width: 10px;
+}
+
+.box .active-page {
+  background-color: #072a48;
+  border-radius: 18px;
+  height: 1px;
+  left: 109px;
+  position: absolute;
+  top: 30px;
+  width: 59px;
+}
+
+.box .tools {
+  display: flex;
+  left: 1098px;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
